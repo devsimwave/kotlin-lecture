@@ -1,4 +1,4 @@
-package com.greedy.`class`
+package com.study.`class`
 
 import java.util.*
 

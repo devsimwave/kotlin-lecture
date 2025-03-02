@@ -1,4 +1,4 @@
-package com.greedy.`class` // kotlin을 Java와 달리 패미지명을 예약어로 사용할 수 있으며 백틱 기호가 붙는다. 권장은 아니지만 이런 방법도 있음
+package com.study.`class` // kotlin을 Java와 달리 패미지명을 예약어로 사용할 수 있으며 백틱 기호가 붙는다. 권장은 아니지만 이런 방법도 있음
 
 /**
  *  클래스 내부에 정의한 변수 혹은 상수를 속성(property)라고 하며

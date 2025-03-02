@@ -1,4 +1,4 @@
-package com.greedy.`class`
+package com.study.`class`
 
 /* open 키워드를 붙이지 않으면 기본적으로 클래스나 메소드에 final 키워드가 붙는다. final 키워드는 상속 및 오버라이딩 불가 */
 open class PublicClass

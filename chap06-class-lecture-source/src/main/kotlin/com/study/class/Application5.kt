@@ -1,4 +1,4 @@
-package com.greedy.`class`
+package com.study.`class`
 
 class Person5(var name: String, var age: Int, var gender: String) {
 

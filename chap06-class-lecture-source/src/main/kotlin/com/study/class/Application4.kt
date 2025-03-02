@@ -1,4 +1,4 @@
-package com.greedy.`class`
+package com.study.`class`
 
 /* 보조생성자 */
 /* 주 생성자 없이 보조생성자만 있는 클래스 */

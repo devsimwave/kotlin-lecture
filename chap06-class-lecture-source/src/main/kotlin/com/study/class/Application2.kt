@@ -1,4 +1,4 @@
-package com.greedy.`class`
+package com.study.`class`
 
 /* 클래스를 정의하는 방법 */
 /* 1. 생성자가 없는 클래스 */

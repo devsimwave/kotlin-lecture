@@ -1,4 +1,4 @@
-package com.greedy.`class`
+package com.study.`class`
 
 /* init 블록을 이용해서 속성값을 초기화 */
 /**
