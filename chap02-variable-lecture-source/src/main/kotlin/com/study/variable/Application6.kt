@@ -62,7 +62,8 @@ fun main(args: Array<String>) {
 
     /**
      *  4. null값이 아님을 보장하는 연산자(!!)를 사용해 null을 허용하지 않는 타입으로 변환
-     *  컴파일 에러를 런타임 에러로 변환시키기 위한 연산자 */
+     *  컴파일 에러를 런타임 에러로 변환시키기 위한 연산자
+     */
     var nullableStr: String? = null
 
 //    var str: String = nullableStr // str이 null을 허용하지 않는 타입이기 때문에 컴파일 오류 발생한다
