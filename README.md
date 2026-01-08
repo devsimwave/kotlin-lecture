@@ -8,6 +8,8 @@ Kotlin 프로그래밍 언어를 학습하기 위한 강의 자료 저장소입�
 ### [Chapter 02: variable](./chap02-variable-lecture-source)
 ### [Chapter 03: operator](./chap03-operator-lecture-source)
 ### [Chapter 04: flow-control](./chap04-flow-control-lecture-source)
+### [Chapter 05: function](./chap05-function-lecture-source)
+
 
 Kotlin의 기본 문법과 기초 개념을 학습합니다.
 
