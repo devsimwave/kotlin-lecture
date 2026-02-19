@@ -1,6 +1,6 @@
 package com.greedy.`class`
 
-/* 클래슬르 정의하는 방법 */
+/* 클래스를 정의하는 방법 */
 /* 1. 생성자가 없는 클래스 */
 class Person1 {
     var name: String = "홍길동"
